@@ -1,3 +1,4 @@
 *.c.tpl
 Makefile*
 */*/include/*.h
+*.test
